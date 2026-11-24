@@ -1,4 +1,10 @@
-Oi sou a Carol é uma página web para o primeiro módulo da Pós Graduação de Desenvolvimento Web da UTFPR.<br>
+
+Página de Apresentação Pessoal "Oi sou a Carol"<br>
+
+Objetivos do Projeto<br>
+* Praticar a estruturação de páginas web com tags semânticas (`header`, `main`, `section`, etc.).<br>
+* Aplicar estilização e organização visual utilizando CSS puro.<br>
+* Criar uma página leve e acessível para apresentação pessoal.<br>
 Acesse esta página através do link:<br>
 
 <img width="1306" height="800" alt="image" src="https://github.com/user-attachments/assets/1b9511c3-537d-432e-8d75-53751328be2a" />
