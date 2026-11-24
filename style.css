@@ -64,7 +64,7 @@ h2{
 
 @media screen and (max-width: 800px) {
   h2 {
-    font-size: 30px;
+    font-size: 17px;
   }
 }
 
@@ -76,17 +76,17 @@ h2{
 
 p{
     line-height:1.5;
-    font-size: 15px;
+    font-size: 20px;
 }
 
 @media screen and (max-width: 800px) {
   p {
-    font-size: 20px;
+    font-size: 13px;
   }
 }
 @media screen and (max-width: 1024px) {
   p {
-    font-size: 13px;
+    font-size: 15px;
   }
 }
 
